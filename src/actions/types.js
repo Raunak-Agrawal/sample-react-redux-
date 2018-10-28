@@ -1,0 +1,2 @@
+export const TEST_DISPATCH = "TEST_DISPATCH";
+export const DETAIL_DISPATCH = "DETAIL_DISPATCH";
